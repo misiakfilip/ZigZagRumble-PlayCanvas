@@ -1,0 +1,1210 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "CROWN_CROWN_0",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3550,
+					"triangles": 6400,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "FALL_fall_0",
+					"index": 1,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 14546,
+					"triangles": 25594,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "GUYS_guys_0",
+					"index": 2,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 12578,
+					"triangles": 21830,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "ARKA_GOLD_BLOCK_0",
+					"index": 3,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1416,
+					"triangles": 2272,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 4,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 67935,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 5,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 74234,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 6,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65533,
+					"triangles": 84004,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 7,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 83338,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 8,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 77402,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 9,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 84656,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 10,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65534,
+					"triangles": 79631,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 11,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 82417,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 12,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 82268,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 13,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 88070,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 14,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 83859,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 15,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 76281,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "simples_coins_simple-coin_0",
+					"index": 16,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 55272,
+					"triangles": 64383,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "ENV_ENV_0",
+					"index": 17,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 153,
+					"triangles": 224,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "FLOOR_FLOOR_0",
+					"index": 18,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65532,
+					"triangles": 96661,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "FLOOR_FLOOR_0",
+					"index": 19,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 5649,
+					"triangles": 5963,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"CROWN",
+				"fall",
+				"guys",
+				"GOLD_BLOCK",
+				"simple-coin",
+				"material",
+				"FLOOR"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "Sketchfab_model",
+				"parent": -1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					0.327431,
+					0.327431,
+					0.327431
+				],
+				"scaleCompensation": false,
+				"children": [
+					1
+				]
+			},
+			"1": {
+				"name": "COINS-and-CROWN_SF.fbx",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					90,
+					-0,
+					0
+				],
+				"scale": [
+					0.01,
+					0.01,
+					0.01
+				],
+				"scaleCompensation": false,
+				"children": [
+					2
+				]
+			},
+			"2": {
+				"name": "Object_2",
+				"parent": 1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					3
+				]
+			},
+			"3": {
+				"name": "RootNode",
+				"parent": 2,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					4,
+					6,
+					8,
+					10,
+					12,
+					26,
+					28
+				]
+			},
+			"4": {
+				"name": "CROWN",
+				"parent": 3,
+				"position": [
+					0,
+					140,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					2,
+					2,
+					2
+				],
+				"scaleCompensation": false,
+				"children": [
+					5
+				]
+			},
+			"5": {
+				"name": "CROWN_CROWN_0",
+				"parent": 4,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"CROWN"
+						]
+					}
+				}
+			},
+			"6": {
+				"name": "FALL",
+				"parent": 3,
+				"position": [
+					0,
+					1351.45,
+					1066.46
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					7
+				]
+			},
+			"7": {
+				"name": "FALL_fall_0",
+				"parent": 6,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 1,
+						"materials": [
+							"fall"
+						]
+					}
+				}
+			},
+			"8": {
+				"name": "GUYS",
+				"parent": 3,
+				"position": [
+					0,
+					1351.45,
+					1066.46
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					9
+				]
+			},
+			"9": {
+				"name": "GUYS_guys_0",
+				"parent": 8,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 2,
+						"materials": [
+							"guys"
+						]
+					}
+				}
+			},
+			"10": {
+				"name": "ARKA",
+				"parent": 3,
+				"position": [
+					732.906,
+					1376.87,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					11
+				]
+			},
+			"11": {
+				"name": "ARKA_GOLD_BLOCK_0",
+				"parent": 10,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 3,
+						"materials": [
+							"GOLD_BLOCK"
+						]
+					}
+				}
+			},
+			"12": {
+				"name": "simples_coins",
+				"parent": 3,
+				"position": [
+					84.0074,
+					281.37,
+					828.142
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					13,
+					14,
+					15,
+					16,
+					17,
+					18,
+					19,
+					20,
+					21,
+					22,
+					23,
+					24,
+					25
+				]
+			},
+			"13": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 4,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"14": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 5,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"15": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 6,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"16": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 7,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"17": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 8,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"18": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 9,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"19": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 10,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"20": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 11,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"21": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 12,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"22": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 13,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"23": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 14,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"24": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 15,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"25": {
+				"name": "simples_coins_simple-coin_0",
+				"parent": 12,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 16,
+						"materials": [
+							"simple-coin"
+						]
+					}
+				}
+			},
+			"26": {
+				"name": "ENV",
+				"parent": 3,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					-0.53869,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					27
+				]
+			},
+			"27": {
+				"name": "ENV_ENV_0",
+				"parent": 26,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 17,
+						"materials": [
+							"material"
+						]
+					}
+				}
+			},
+			"28": {
+				"name": "FLOOR",
+				"parent": 3,
+				"position": [
+					0,
+					-14.2411,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					29,
+					30
+				]
+			},
+			"29": {
+				"name": "FLOOR_FLOOR_0",
+				"parent": 28,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 18,
+						"materials": [
+							"FLOOR"
+						]
+					}
+				}
+			},
+			"30": {
+				"name": "FLOOR_FLOOR_0",
+				"parent": 28,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 19,
+						"materials": [
+							"FLOOR"
+						]
+					}
+				}
+			}
+		}
+	}
+}
