@@ -33,11 +33,11 @@ To run the game locally:
 ```bash
 git clone https://github.com/misiakfilip/ZigZagRumble-PlayCanvas.git
 ```
-3. Download files.
-4. Open PlayCanvas website.
-5. Navigate to your projects.
-6. Click on import project button.
-7. Get creative!
+2. Download files.
+3. Open PlayCanvas website.
+4. Navigate to your projects.
+5. Click on import project button.
+6. Get creative!
 
 ### Contributing
 
